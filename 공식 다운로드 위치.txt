@@ -1,0 +1,4 @@
+1. server(postgresql)
+   - https://www.postgresql.org/download/windows/
+2. client(pgadmin)
+   - https://www.pgadmin.org/download/
